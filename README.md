@@ -2,7 +2,8 @@
 
 # Yannick Ferenczi
 
-**born on the 12/01/1985 🐥 - reborn on the 01/01/2022 👨‍💻**
+**🐥 born on the 12/01/1985 🐥**
+**👨‍💻 reborn on the 01/01/2022 👨‍💻**
 
 <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" width="40" height="40"/>
 
