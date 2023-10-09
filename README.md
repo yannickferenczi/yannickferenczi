@@ -1,6 +1,3 @@
-# Yannick Ferenczi - born on the 12/01/1985 🐥 - reborn on the 01/01/2022 👨‍💻
-
-
 <div align="center">
 
 # Yannick Ferenczi
