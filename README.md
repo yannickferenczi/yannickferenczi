@@ -2,6 +2,8 @@
 
 # Yannick Ferenczi
 
+<img src="https://komarev.com/ghpvc/?username=yannickferenczit&label=Profile%20views&color=0e75b6&style=flat" alt="yannickferenczi" />
+
 **🐥 born on the 12/01/1985 🐥**
 
 **👨‍💻 reborn on the 01/01/2022 👨‍💻**
