@@ -8,7 +8,7 @@ I am Yannick, a fresher in the Tech industry. Passionate about creating and craf
 
 </div>
 
-## Tech
+## My Tech
 
 ![Python logo](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![HTML5 logo](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
