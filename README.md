@@ -10,6 +10,10 @@
 
 ## Tech
 
+![Python logo](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+![HTML5 logo](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
+![CSS3 logo](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
+![JavaScript logo](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
 ![Visual Studio Code logo](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg)
 ---
 
