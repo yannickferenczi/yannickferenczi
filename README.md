@@ -6,10 +6,6 @@
 
 I am Yannick, a fresher in the Tech industry. Passionate about creating and crafting solutions, I have done it for a life time using hand tools. It is now time for me to do it using IT tools...
 
-**🐥 born on the 12/01/1985 🐥**
-
-**👨‍💻 reborn on the 01/01/2022 👨‍💻**
-
 </div>
 
 ## Tech
