@@ -15,7 +15,7 @@
 ![CSS3 logo](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
 ![JavaScript logo](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
 ![PostgreSQL logo](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
-![GitHub logo](https://www.vectorlogo.zone/logos/github/github-tile.svg)
+![GitHub logo](https://www.vectorlogo.zone/logos/github/github-icon.svg)
 ![Visual Studio Code logo](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg)
 ---
 
