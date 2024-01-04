@@ -8,6 +8,9 @@
 
 </div>
 
+## Tech
+
+![Visual Studio Code logo](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg)
 ---
 
   ## &#x1f4c8; GitHub Stats
