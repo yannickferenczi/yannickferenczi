@@ -10,7 +10,7 @@ Hi,
 
 I am Yannick, a "fresher" in the Tech industry. Passionate about creating and crafting solutions, I have done it for a lifetime using hand tools until I realized that it's even more fun to do it using IT tools...
 
-## My Tech
+## My Stack
 
 ![Python logo](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![HTML5 logo](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
