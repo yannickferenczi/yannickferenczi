@@ -6,7 +6,8 @@
 
 ## A little about me
 
-Hi, 
+Hi,
+
 I am Yannick, a "fresher" in the Tech industry. Passionate about creating and crafting solutions, I have done it for a lifetime using hand tools until I realized that it's even more fun to do it using IT tools...
 
 ## My Tech
