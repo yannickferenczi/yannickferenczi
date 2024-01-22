@@ -4,8 +4,6 @@
 
 </div>
 
-## A little about me
-
 I am Yannick, a "fresher" in the Tech industry. Passionate about creating and crafting solutions, I have done it for a lifetime using hand tools until I realized that it's even more fun to do it using IT tools...
 
 I am currently looking for a role in full-stack or backend web development using Python and, ideally Django.
