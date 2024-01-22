@@ -4,7 +4,7 @@
 
 </div>
 
-Passionate about creating and crafting solutions, I have done it for a lifetime using hand tools until I realized that it's even more fun to do it using IT tools...
+Passionate about creating and crafting solutions, I have done it for a lifetime using hand tools until I realized that it's even more fun to do it using IT tools... Why? How do you do "ctrl + z" when you cut off a board too short or make a whole at the wrong place? There is so much more space for failures in the machine world which makes it a great place to try things and grow fast.
 
 I am currently looking for a role in full-stack or backend web development using Python and, ideally Django.
 If you are hiring, let us chat!
