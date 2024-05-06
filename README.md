@@ -4,6 +4,8 @@
 
 </div>
 
+## 🔭 About me
+
 I started to dive into coding in early 2022, out of curiosity for Python.
 
 In six months, my curiosity became a hobby, then a passion and, I decided to quit my job to be fully committed to Tech.
@@ -12,13 +14,11 @@ One year later, I graduated my Full Stack Software Diploma from the Code Institu
 
 I am now looking for a role in full-stack or backend web development using Python and, ideally Django.
 
-If you are a Tech passionate too, let's connect!
-
 <a href="https://github.com/yannickferenczi/yannickferenczi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yannickferenczi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yannick's GitHub Stats" />
 </a>
 
-## My Tech Stack
+## 🏆 My Tech Stack
 
 ![Python logo](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![HTML5 logo](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
@@ -38,4 +38,4 @@ If you are a Tech passionate too, let's connect!
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/yannickferenczi/)
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together.
