@@ -10,7 +10,7 @@ I started to dive into coding in early 2022, out of curiosity for Python.
 
 In six months, my curiosity became a hobby, then a passion and, I decided to quit my job to be fully committed to Tech.
 
-One year later, I graduated my Full Stack Software Diploma from the Code Institute.
+One year later, I graduated my Full Stack Software Developer Diploma from the Code Institute.
 
 I am now looking for a role in full-stack or backend web development using Python and, ideally Django.
 
